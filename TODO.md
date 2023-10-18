@@ -9,6 +9,7 @@ This should represent the list of additions and edits for the upgrade content
 - [ ] add 8.0.0 dvSwitch enhancements  
 - [ ] Quick Boot details  
 - [ ] Additional validation tools
+- [ ] Add Executive notes section (What to consider)
 
 ### In Progress
 
