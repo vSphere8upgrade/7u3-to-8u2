@@ -355,8 +355,9 @@ _Update 2 adds dvSwitch configuration to DKVS._
 <img width="740" alt="vSAN Max cluster providing storage" src="/images/Introducing-vSAN-Max-Figure-02.png">  
 
 - Shared storage for different use cases
-<img width="1000" alt="vSAN Max use cases" src="/images/Introducing-vSAN-Max-Figure-05.png">
+<img width="1000" alt="vSAN Max use cases" src="/images/Introducing-vSAN-Max-Figure-05.png">  
 
+-This is only on the DEV branch
 
 ## Resource Management <a name="resourcemgmt"></a> 
 
